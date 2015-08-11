@@ -1,0 +1,24 @@
+= Bienvenidos al Blog de Desarrollo de la Comunidad Bachaco-ve
+
+
+:hp-image: https://avatars3.githubusercontent.com/u/11858311?v=3&s=200
+
+:hp-tags: Bachaco-ve, Odoo, ERP Libre
+
+
+
+Blog Técnico funcional para la contrucción del *ERP Libre*, un proyecto de adopción de la herramienta *Odoo*, como alternativa sustentable para el desarrollo de una plataforma de interoperabilidad en la APN.
+
+=== Algunos Textos de consulta: 
+
+:linkattrs:
+https://try.github.io/levels/1/challenges/1[* `*Learn To Use Git*` : Información acerca de git y github mediante una guía interactiva bastante básica para el uso de la herramienta (en ingles)] 
+
+
+:linkattrs:
+http://git-scm.com/book/es/v1[* `*Pro Git*` : En español podemos encontrar el libro oficial de git (Pro Git) que va desde los conocimientos más básico hasta las configuraciones más complejas] 
+
+
+
+
+Bienvenidos!
