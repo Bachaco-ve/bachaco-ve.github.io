@@ -1,0 +1,45 @@
+= Propuesta de Reestructuración de repositorios de Bachaco-ve
+Javier León (@jelitox) <jel1284@gmail.com>
+v1.0, 2015-08-13
+:toc:
+:hp-image: https://avatars3.githubusercontent.com/u/11858311?v=3&s=200
+:homepage: http://bachaco-ve.github.io
+:hp-tags: Bachaco-ve, Odoo, ERP Libre, Github, Desarrollo, Colaborativo
+// Web page meta data.
+:keywords: Blog, Bachaco-ve, Odoo, ERP Libre, Github, Desarrollo, Colaborativo, IT, Devops, Desarrollo, Sysadmin, Social, Networks, emprendimiento, Pagina Oficial,
+:description: Blog técnico Funcional , +
+ desarrollo Colaborativo, + Redes Sociales, facebook, instagram, twitter, pinterest + proyectos de emprendimiento, +
+Pagina principal.
+
+.{revdate}:  {revnumber} 
+
+[quote, Propuesta Javier León]
+____
+Dentro de la Organica Colaborativa que actualmente se esta gestando y profundizando dentro del colectivo bachaco-ve, es importante mantener una estructura clara y concisa con relación a los aportes y el método para la consolidación de los contenidos generados por los actores involucrados, es por esto que siendo uno de los precursores de la plataforma técnica de bachaco-ve realizo la siguiente propuesta para la organización de los repositorios del Colectivo.
+____
+
+=== Propuesta: 
+
+* `*Crear un repositorio Docs*` : 
+     Este repositorio contendrá lo siguiente:
+        - Manuales.
+        - Guias.
+        - Libros.
+        - Contrato Social.
+        - Codigo de Conducta.
+        - Directrices. 
+        - Informes.
+        - Artes y Diseños.
+        
+De igual manera es importante definir un flujo de trabajo alrededor del wiki gist(trozos de codigo) y las incidencias (issues) para toda la gestión documental que se estará generando(que va en docs o que va en wiki), adicionalmente sistematizar la conceptualización, diseño y desarrollo de los procesos y que los mismos queden plasmados y documentados.
+
+* `*Crear un Repositorio de Modulos Bachaco-ve*` :  
+    Este repositorio se crea con la finalidad de albergar todos los modulos desarrollados por el colectivo bachavo-ve en aras de generar la localización definitiva que permitirá tener una base operable para la APN / Industria Nacional 
+
+
+* `*Fork del Repositorio Oficial de Odoo*` :        
+    Este repositorio contendrá el codigo oficial de odoo de manera que mediante el mismo podamos controlar las actualizaciones de seguridad que veamos convenientes incorporar para desplegar una instalación Localizada de Odoo con los modulos de bachaco-ve
+
+* `*bachaco-ve.github.io (Blog.bachaco.org.ve) Blog de Desarrollo*` : Técnico/Funcional de bachaco-ve cuya función Principal es garantizar mantener actualizado e informado a todos los interesados acerca de los avances, logros, aciertos a nivel técnico funcional actualizaciones de la plataforma y nuevos caminos trazados.
+
+* `*Plataforma Bachaco-ve*` : Entorno Controlado, marco de Interoperabilidad y desarrollo colaborativo basado en docker para el desarrollo y despliegue de un entorno de desarrollo de modulos odoo.
