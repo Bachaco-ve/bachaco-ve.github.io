@@ -31,7 +31,7 @@ ____
         - Informes.
         - Artes y Diseños.
         
-De igual manera es importante definir un flujo de trabajo alrededor del wiki gist(trozos de codigo) y las incidencias (issues) para toda la gestión documental que se estará generando(que va en docs o que va en wiki), adicionalmente sistematizar la conceptualización, diseño y desarrollo de los procesos y que los mismos queden plasmados y documentados.
+De igual manera es importante definir un flujo de trabajo alrededor del wiki gist(trozos de codigo) y las incidencias (issues) para toda la gestión documental que se estará generando(que va en docs?, que va en la wiki?), adicionalmente sistematizar la conceptualización, diseño y desarrollo de los procesos y que los mismos queden plasmados y documentados.
 
 * `*Crear un Repositorio de Modulos Bachaco-ve*` :  
     Este repositorio se crea con la finalidad de albergar todos los modulos desarrollados por el colectivo bachavo-ve en aras de generar la localización definitiva que permitirá tener una base operable para la APN / Industria Nacional 
